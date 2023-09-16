@@ -9,11 +9,17 @@
   },
   "private": true,
   "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.14.9",
     "@nx/next": "16.8.1",
     "next": "13.4.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "tslib": "^2.3.0"
+    "react-hook-form": "^7.46.1",
+    "react-router-dom": "^6.16.0",
+    "tslib": "^2.3.0",
+    "uuid": "^9.0.1"
   },
   "devDependencies": {
     "@nx/cypress": "16.8.1",
